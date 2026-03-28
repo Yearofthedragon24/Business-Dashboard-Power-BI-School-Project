@@ -61,7 +61,8 @@ Please download and open it in Power BI Desktop.
 
 ## 🔄 Project Progression
 
-This project represents an earlier stage in my Power BI journey.  
-A more advanced project can be found here:
+This project represents an earlier stage in my Power BI development.
+
+A more advanced dashboard project can be found here:
 
 👉 [Freddy’s Bicycle Dashboard](https://github.com/Yearofthedragon24/Freddy-s-Bicycle-Dashboard-in-Power-BI)
