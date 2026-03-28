@@ -1,12 +1,12 @@
 # 📊 Business Dashboard (Power BI - School Project)
 
-An early Power BI project demonstrating data analysis across sales, HR, and finance.
+An early Power BI project analyzing sales, HR, and financial performance.
 
 ## 📊 Project Overview
 
-This Power BI dashboard was developed as an early school project to analyze business performance across multiple areas.
+This Power BI dashboard analyzes business performance across sales, HR, and financial data.
 
-It provides insights into sales, HR, and financial data, helping to understand overall business operations and key metrics.
+It was developed as an early project to demonstrate data analysis and visualization skills.
 
 ## 📸 Dashboard Preview
 
