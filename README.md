@@ -15,10 +15,10 @@ It provides insights into sales, HR, and financial data, helping to understand o
 <img width="1447" height="809" alt="Skärmbild 2026-03-29 001835" src="https://github.com/user-attachments/assets/1f48cfed-b798-40c5-bdba-019bc1ba742e" />
 
 ### HR Dashboard
-![HR Dashboard] (<img width="1411" height="798" alt="Skärmbild 2026-03-29 002005" src="https://github.com/user-attachments/assets/3e83c7fe-b426-42ca-9a04-99f2c3502566" />)
+<img width="1411" height="798" alt="Skärmbild 2026-03-29 002005" src="https://github.com/user-attachments/assets/3e83c7fe-b426-42ca-9a04-99f2c3502566" />
 
 ### Financial Overview
-![Financial Dashboard](<img width="1404" height="790" alt="Skärmbild 2026-03-29 002023" src="https://github.com/user-attachments/assets/dcf14742-417e-482a-8c64-2a4b636d3edb" />)
+<img width="1404" height="790" alt="Skärmbild 2026-03-29 002023" src="https://github.com/user-attachments/assets/dcf14742-417e-482a-8c64-2a4b636d3edb" />
 
 ## 🚀 Key Features
 
