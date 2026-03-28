@@ -21,8 +21,6 @@ It was developed as an early project to demonstrate data analysis and visualizat
 <img width="1404" height="790" alt="Skärmbild 2026-03-29 002023" src="https://github.com/user-attachments/assets/dcf14742-417e-482a-8c64-2a4b636d3edb" />
 
 ## 🚀 Key Features
-
-
 - Sales performance analysis over time  
 - HR insights (employee distribution, salaries, working hours)  
 - Financial reporting (revenue, costs, profit)  
@@ -40,7 +38,12 @@ The dashboard highlights important patterns in business data:
 
 These insights support a better understanding of business performance.
 
----
+## 📚 What I Learned
+
+- How to build multi-page dashboards in Power BI  
+- Data modeling and creating relationships between tables  
+- Writing DAX measures for KPIs and calculations  
+- Designing interactive and user-friendly reports  
 
 ## 🛠 Tools Used
 
@@ -48,7 +51,6 @@ These insights support a better understanding of business performance.
 - DAX  
 - Data modeling  
 
----
 
 ## 📥 Download Project
 
@@ -56,3 +58,10 @@ These insights support a better understanding of business performance.
 Please download and open it in Power BI Desktop.
 
 [Download Power BI file](https://drive.google.com/file/d/1HSRqQdhR9JebPwKKgvwgJp-KpQw-mXBG/view?usp=drive_link)
+
+## 🔄 Project Progression
+
+This project represents an earlier stage in my Power BI journey.  
+A more advanced project can be found here:
+
+👉 [Freddy’s Bicycle Dashboard](LÄNK)
